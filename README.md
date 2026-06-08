@@ -7,6 +7,9 @@ This is a plain static site. In GitHub Pages, publish from the main branch and t
 
 Files
 index.html - main app
+
 style.css - pixel art layout and visuals
+
 script.js - cat reactions, flowers, notes, and daily storage
+
 cat-prototypes.html - archived design studies for the pixel cats
