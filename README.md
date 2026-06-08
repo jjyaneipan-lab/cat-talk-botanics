@@ -5,7 +5,7 @@ Choose a cat, write in the notebook, and the window garden keeps blooming with p
 
 This is a plain static site. In GitHub Pages, publish from the main branch and the repository root. Go to the folders for more details!
 
-Files
+# Files
 index.html - main app
 
 style.css - pixel art layout and visuals
